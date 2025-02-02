@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 I'm currently working on a full stack app that is a Japanese poetry AI generator called Hajimoto<br>📚 I study many concepts regarding DevOps and Software Development including Cloud Computing and Programming<br>🔎 I'm looking to get hired as a Software Engineer or any similar role that involves critical thinking, problem solving and communication skills<br>
+🎓I am a mastrer's student at University of Transilvania in Electronic Systems and Integrated Communications<br>📝 I'm currently working on a full stack app that is a Japanese poetry AI generator called Hajimoto<br>📚 I study many concepts regarding DevOps and Software Development including Cloud Computing and Programming<br>🔎 I'm looking to get hired as a Software Engineer or any similar role that involves critical thinking, problem solving and communication skills<br>
 
 
 ## 🌐 Socials:
