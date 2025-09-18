@@ -1,7 +1,3 @@
-# 💫 About Me:
-🎓I am a mastrer's student at University of Transilvania in Electronic Systems and Integrated Communications<br>📝 I'm currently working on a full stack app that is a Japanese poetry AI generator called Hajimoto<br>📚 I study many concepts regarding DevOps and Software Development including Cloud Computing and Programming<br>🔎 I'm looking to get hired as a Software Engineer or any similar role that involves critical thinking, problem solving and communication skills<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/razvan_spinu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/răzvan-spînu-709b78340/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:razvan.spinu.ro@gmail.com) 
 
